@@ -1,1 +1,1 @@
-# Daangn-Market-FE
+# 클론 코딩용입니다.
